@@ -1,0 +1,15 @@
+C:\dev\Balta\Blog\bin\Debug\net7.0\Blog.exe
+C:\dev\Balta\Blog\bin\Debug\net7.0\Blog.deps.json
+C:\dev\Balta\Blog\bin\Debug\net7.0\Blog.runtimeconfig.json
+C:\dev\Balta\Blog\bin\Debug\net7.0\Blog.dll
+C:\dev\Balta\Blog\bin\Debug\net7.0\Blog.pdb
+C:\dev\Balta\Blog\obj\Debug\net7.0\Blog.csproj.AssemblyReference.cache
+C:\dev\Balta\Blog\obj\Debug\net7.0\Blog.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Balta\Blog\obj\Debug\net7.0\Blog.AssemblyInfoInputs.cache
+C:\dev\Balta\Blog\obj\Debug\net7.0\Blog.AssemblyInfo.cs
+C:\dev\Balta\Blog\obj\Debug\net7.0\Blog.csproj.CoreCompileInputs.cache
+C:\dev\Balta\Blog\obj\Debug\net7.0\Blog.dll
+C:\dev\Balta\Blog\obj\Debug\net7.0\refint\Blog.dll
+C:\dev\Balta\Blog\obj\Debug\net7.0\Blog.pdb
+C:\dev\Balta\Blog\obj\Debug\net7.0\Blog.genruntimeconfig.cache
+C:\dev\Balta\Blog\obj\Debug\net7.0\ref\Blog.dll
