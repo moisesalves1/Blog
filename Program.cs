@@ -24,9 +24,7 @@ namespace Blog
             var users = repository.Get();
             
             foreach (var user in users)
-            {
                 Console.WriteLine(user.Name);
-            }
         }
 
         public static void ReadUser()
